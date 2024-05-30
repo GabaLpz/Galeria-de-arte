@@ -1,2 +1,0 @@
-# galartes
-Galeria de Arte
